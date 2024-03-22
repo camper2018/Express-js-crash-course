@@ -1,0 +1,18 @@
+video link: 
+https://youtu.be/L72fhGm1tfE?si=OLeo-igRyVdQ93-r
+
+Express is a fast, un opinionated ie. no file structure or design pattern imposed unlike 'laravel' for php, 'django' for python, and minimalist web framework for Node.js.
+Express is a server-side or back-end framework.
+Makes building web applications with Node.js much easier.
+Used for both server rendered apps (serving HTML pages pr pages built with pub or ejs or handlebar template engines) as well as API/Microservices.
+Extremely light, fast and free
+Full control of request and responses
+By far the most popular Node framework.
+
+Middleware: Are the functions that have access to the request and response object.
+Express has built in middleware but we can also use 3d party packages as well as custom middlewares.
+Uses:
+Execute any code
+make changes to the request/ response objects
+End response cycle
+Call next middleware in the stack
